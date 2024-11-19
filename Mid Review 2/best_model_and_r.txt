@@ -1,0 +1,2 @@
+llama-3.1-70b-versatile
+R2
